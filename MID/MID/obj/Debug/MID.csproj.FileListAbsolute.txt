@@ -1,0 +1,7 @@
+D:\College\C#\VS\MID\MID\bin\Debug\MID.exe.config
+D:\College\C#\VS\MID\MID\bin\Debug\MID.exe
+D:\College\C#\VS\MID\MID\bin\Debug\MID.pdb
+D:\College\C#\VS\MID\MID\obj\Debug\MID.csproj.CoreCompileInputs.cache
+D:\College\C#\VS\MID\MID\obj\Debug\MID.exe
+D:\College\C#\VS\MID\MID\obj\Debug\MID.pdb
+D:\College\C#\VS\MID\MID\obj\Debug\MID.csprojAssemblyReference.cache
